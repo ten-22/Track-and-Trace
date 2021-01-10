@@ -1,0 +1,8 @@
+- I architected a (Covid-19 track and trace) program to understand the impact of COVID-19 on the booking systems of establishments such as pubs and restaurants.   
+-   
+- I illustrated how establishments could adhere to the  GDPR principles relating to the processing of personal data Article 5 (1.e).   
+-   
+- My program's real-world applicability shows how an establishment can store data on (CVS FILE/ Excel ) internal systems for a limited time subject to "scientific" purposes set out in  GDPR Article 5.    
+-   
+- Retrieval of data   
+- using JAVA imports such as date and time, I have given each establishment to call the accurate data of each customer for Covid-19 track and trace purposes   
